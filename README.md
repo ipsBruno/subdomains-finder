@@ -1,5 +1,5 @@
 
-# subdomain-finder
+# subdomains-finder
 
 A fastest tool to brute-force subdomains</br>
 This can scan the 500,000 subdomains in less than 1 hour.
