@@ -12,17 +12,17 @@ This can scan the 500,000 subdomains in less than 1 hour.
  4. node index.js   --target=google.com
 
 
-**Optional Params:**
+**Optional Params:**<br>
 --threads=500<br>
 --wordlist=wordlist.txt<br>
 --output=logs.txt<br>
 --verbose=1<br>
 <br/>
 <br/>
-
 <br/>
 <br/>
 #### Contact
+<br/>
 email@brunodasilva.com
 <br/>
 <br/>
