@@ -1,21 +1,25 @@
+
 # subdomain-finder
 
+A fastest tool to brute-force subdomains
+This can scan the 500,000 subdomains in less than 1 hour.
 
 #### Command Line:
-git clone https://github.com/ipsBruno/subdomains-finder.git<br/>
-cd subdomains-finder<br/>
-npm install minimist<br/>
-node index.js --target=google.com<br/>
-<br/>
-<br/>
-##### Optional Params:
+
+ 1. git clone https://github.com/ipsBruno/subdomains-finder.git
+ 2. cd subdomains-finder
+ 3. npm install minimist
+ 4. node index.js   --target=google.com
+
+
+**Optional Params:**
 --threads=500<br>
 --wordlist=wordlist.txt<br>
 --output=logs.txt<br>
 --verbose=1<br>
 <br/>
 <br/>
-This can scan the 500,000 subdomains in less than 1 hour.
+
 <br/>
 <br/>
 #### Contact
