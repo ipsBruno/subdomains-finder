@@ -1,0 +1,8 @@
+mail.google.com
+www.google.com
+ns2.google.com
+blog.google.com
+ns1.google.com
+mobile.google.com
+m.google.com
+account.google.com
