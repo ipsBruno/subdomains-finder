@@ -25,7 +25,7 @@ This can scan the 500,000 subdomains in less than 1 hour.
 <br/>
 #### Contact
 <br/>
-email@brunodasilva.com
+Any more questions, talk to email@brunodasilva.com
 <br/>
 <br/>
-Thank you
+
